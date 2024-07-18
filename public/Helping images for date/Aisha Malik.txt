@@ -1,0 +1,21 @@
+First Name: Aisha
+Last Name: Malik
+Email: aisha.malik@email.com
+Password: SecureP@ss123
+Contact Number: +92 300 9876543
+Address: House #789, G-7, Islamabad, Pakistan
+Preferred Jobs: Personal Care, Cooking, Housekeeping
+Hourly Rate (PKR): 600
+Experience: Personal Care Assistant | Harmony Home Health | 2020 - Present, Chef | City Grill | 2018 - 2019
+Reference One Name: Sarah Ahmed | Supervisor
+Reference One Contact: +92 345 8765432 | sarah.ahmed@email.com
+Reference One Details: Sarah can verify my dedication and skills in personal care and culinary arts.
+Reference Two Name: Ali Hassan | Co-worker
+Reference Two Contact: +92 321 2345678 | ali.hassan@email.com
+Reference Two Details: Ali and I worked together at City Grill, where he observed my excellent culinary expertise.
+Profile Description: Compassionate and skilled support worker experienced in personal care and cooking. Committed to providing quality service tailored to individual needs.
+Availability: Monday, Tuesday, Thursday
+Languages: Urdu, English
+Personality Traits: Caring, Organized, Friendly
+Qualifications and Additional Details: CPR Certified, Comfortable with pets, First Aid Training
+Image Reference for AI Generation: Aisha has a warm and friendly personality with a medium complexion, hazel eyes, and shoulder-length black hair. She usually wears professional attire.

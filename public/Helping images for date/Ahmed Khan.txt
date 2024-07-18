@@ -1,0 +1,35 @@
+SUPPORT WORKER
+First Name: Ahmed
+Last Name: Khan
+Email: ahmed.khan@email.com
+Password: SecureP@ss123!
+Contact Number: +92 300 9876543
+Address: House #789, G-9, Islamabad, Pakistan
+Preferred Jobs (Comma Separated): Personal Care, Cooking, Housekeeping, Pet Care
+Hourly Rate (PKR): 500
+Experience (Comma Separated): Personal Care Assistant | Harmony Home Services | 2020 - Present, Chef | Delicious Delights Catering | 2018 - 2019, Housekeeper | Sparkle Clean Services | 2016 - 2018, Pet Sitter | Paws and Claws Pet Care | 2015 - 2016
+Reference One Name: Sara Ahmed | Supervisor
+Reference One Contact: +92 321 1234567 | sara.ahmed@email.com
+Reference One Details: Sara can attest to my dedication and reliability. We worked together at Harmony Home Services, where I currently serve as a Personal Care Assistant.
+
+Reference Two Name: Ali Malik | Co-worker
+Reference Two Contact: +92 345 8765432 | ali.malik@email.com
+Reference Two Details: Ali and I collaborated at Delicious Delights Catering. He can vouch for my culinary skills and my ability to work efficiently in a team.
+
+Profile Description:
+I am a detail-oriented and versatile support worker, specializing in personal care, cooking, housekeeping, and pet care. My aim is to provide tailored and high-quality support to individuals based on their unique needs.
+
+In my current role as a Personal Care Assistant at Harmony Home Services, I have gained valuable experience in understanding and meeting the diverse needs of individuals. As a Chef at Delicious Delights Catering, I showcased my culinary expertise and attention to taste and presentation.
+
+My previous role as a Housekeeper at Sparkle Clean Services allowed me to develop strong organizational and cleaning skills. Additionally, my experience as a Pet Sitter at Paws and Claws Pet Care reflects my commitment to creating a safe and nurturing environment for pets.
+
+I am an effective communicator and collaborative team member. I believe in creating a positive and supportive atmosphere for both clients and colleagues. My adaptable and proactive nature allows me to handle various challenges with professionalism.
+
+Image Reference for AI Generation:
+A description that can assist in creating a realistic image:
+Ahmed is a friendly and approachable individual with a professional demeanor. He has a fair complexion, hazel eyes, and short black hair. Typically, he dresses in business casual attire and maintains a warm and welcoming expression.
+
+Availability (Comma Separated): Tuesday, Thursday, Saturday, Sunday
+Languages (Comma Separated): English, Urdu, Pashto
+Personality Traits (Comma Separated): Organized, Friendly, Patient, Adaptable, Proactive, Detail-oriented
+Qualifications and Additional Details (Comma Separated): First Aid Certification, Comfortable with pets, Valid Driver's License, Cooking Certification

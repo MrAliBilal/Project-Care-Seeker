@@ -1,0 +1,35 @@
+SUPPORT WORKER
+First Name: Aqsa
+Last Name: Ali
+Email: ayesha.ali@email.com
+Password: SafePass123!
+Contact Number: +92 301 2345678
+Address: Flat #123, E-7, Islamabad, Pakistan
+Preferred Jobs (Comma Separated): Baby Care, Cooking, Personal Care, Elderly Care
+Hourly Rate (PKR): 600
+Experience (Comma Separated): Babysitter | Little Angels Daycare | 2019 - Present, Chef | Culinary Delights | 2017 - 2019, Personal Care Attendant | Harmony Home Services | 2015 - 2017, Elderly Companion | Golden Years Senior Living | 2014 - 2015
+Reference One Name: Zainab Ahmed | Supervisor
+Reference One Contact: +92 311 9876543 | zainab.ahmed@email.com
+Reference One Details: Zainab supervised my work at Little Angels Daycare. She can confirm my skills in providing attentive and caring childcare services.
+
+Reference Two Name: Ahmed Malik | Head Chef
+Reference Two Contact: +92 321 8765432 | ahmed.malik@email.com
+Reference Two Details: Ahmed, my former head chef at Culinary Delights, can verify my culinary expertise and my ability to handle a fast-paced kitchen environment.
+
+Profile Description:
+I am a dedicated and compassionate support worker with a focus on providing quality care to individuals. Specializing in baby care, cooking, personal care, and elderly care, I aim to create a positive and nurturing environment for those I support.
+
+In my current role as a Babysitter at Little Angels Daycare, I've developed strong childcare skills and fostered a loving and safe space for children. As a Chef at Culinary Delights, I showcased my culinary creativity and organizational skills.
+
+My experience as a Personal Care Attendant at Harmony Home Services allowed me to provide personalized care to individuals with diverse needs. Additionally, as an Elderly Companion at Golden Years Senior Living, I learned the importance of companionship and empathy in elderly care.
+
+I am known for my effective communication and adaptability. I thrive in collaborative environments and am committed to creating a positive impact on the well-being of those I care for.
+
+Image Reference for AI Generation:
+A description that can assist in creating a realistic image:
+Ayesha is a warm and friendly individual with a caring disposition. She has a light complexion, brown eyes, and shoulder-length dark hair. Her attire is typically professional yet comfortable. The image should capture her approachable and professional appearance as a dedicated support worker.
+
+Availability (Comma Separated): Monday, Wednesday, Friday, Sunday
+Languages (Comma Separated): Urdu, English
+Personality Traits (Comma Separated): Caring, Friendly, Patient, Adaptable, Detail-oriented, Empathetic
+Qualifications and Additional Details (Comma Separated): CPR Certification, Cooking Diploma, Experience with elderly care
