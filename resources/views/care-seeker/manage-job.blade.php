@@ -3,7 +3,7 @@
 <x-layout>
     <x-card class="p-10">
         <header>
-            <h1 class="text-3xl text-center font-bold my-6 uppercase">Manage Gigs</h1>
+            <h1 class="text-3xl text-center font-bold my-6 uppercase">Manage Jobs</h1>
         </header>
 
         <div class="overflow-x-auto">

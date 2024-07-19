@@ -1,0 +1,33 @@
+### Personal Information:
+- Last Name: Siddiqui
+- Email: imran.siddiqui@example.pk
+- Password: imranpass456
+- Contact Number: +92 304 8765432
+- Address: 14 Blue Street, Karachi
+
+### Job Experience:
+- Job Experience Title: Gym Instructor
+- Experience (Years): 6
+- Job Experience Details: As a Gym Instructor for the past 6 years...
+
+### Compensation:
+- Hourly Rate: 220.00 PKR
+
+### References:
+1. Reference 1:
+   - Reference Name: Sara Abbas
+   - Contact: +92 322 3456789
+   - Reference Statement: Sara can vouch for Imran's expertise in designing effective workout routines and maintaining a supportive fitness environment.
+2. Reference 2:
+   - Reference Name: Fahad Ahmed
+   - Contact: +92 333 9876543
+   - Reference Statement: Fahad has benefited from Imran's training sessions and recommends him for his dedication to fitness coaching.
+
+### Additional Profile Information:
+- Profile Description: Imran Siddiqui is a dedicated Gym Instructor with 6 years of experience in designing effective workout routines and maintaining a supportive fitness environment. He has a proven track record of helping clients achieve their fitness goals through personalized training plans and motivational support. Imran is skilled in a variety of fitness techniques, including weight training, cardio, and flexibility exercises. He is also knowledgeable about nutrition and can provide guidance on healthy eating habits. Imran is committed to continuing his education and staying up-to-date with the latest fitness trends and best practices. His passion for fitness and helping others is evident in his enthusiastic approach to training and his ability to connect with clients of all fitness levels.
+- Availability (Comma Separated): Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+- Languages (Comma Separated): Urdu, Punjabi, English
+- Personality Traits (Comma Separated): Calm, Energetic, Organized, Friendly
+- Qualifications and Additional Details (Comma Separated): CPR course [HLTAID009-12], Willing to drive, Willing to work with pets
+
+This data can now be entered into the form for Imran Siddiqui.
