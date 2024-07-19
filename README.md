@@ -1,6 +1,6 @@
 # Final Year Project CareSeeker
 ## Introduction
-![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/Home%20Page.jpeg)
+![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/Home%20Page%20-%20Guest.jpeg)
 
 A services-oriented website that offers a community platform to find support workers for elders, sick people, baby care, cooking, personal care, animal care, gym instruction, and domestic assistance. Care seekers can post jobs or search through an online community of support workers. Support workers will register on this website so care seekers can find them according to their desired needs. Support workers will charge hourly. Once a care seeker posts a job, support workers can respond through a messaging service. After finalizing the terms, the support worker will accept the job.
 
@@ -59,7 +59,7 @@ A services-oriented website that offers a community platform to find support wor
    - Care seekers can view, edit, or delete their job postings
    - Support workers can view the status of their applications and accepted jobs
 ## Demo
-![](https://github.com/AliBilal-1/CareSeeker-Prototype-Assignment/blob/main/Output%20Images/4.%20Login%20page.png)
+![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/CareSeeker%20Demo.gif)
 
 ## Getting Started
 
