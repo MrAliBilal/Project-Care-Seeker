@@ -5,8 +5,8 @@
 A services-oriented website that offers a community platform to find support workers for elders, sick people, baby care, cooking, personal care, animal care, gym instruction, and domestic assistance. Care seekers can post jobs or search through an online community of support workers. Support workers will register on this website so care seekers can find them according to their desired needs. Support workers will charge hourly. Once a care seeker posts a job, support workers can respond through a messaging service. After finalizing the terms, the support worker will accept the job.
 
 ## Tools and Technology
-- Laravel 
-- Tailwind CSS
+- Fullstack Framework: Laravel 
+- CSS Framework: Tailwind CSS
 - Database: MySQL
 - Packages: Chatify, alpine.
 
@@ -67,11 +67,11 @@ To get started with the Care Seeker project, follow these steps:
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/yourusername/careseeker.git
+   git clone https://github.com/AliBilal-1/Project-Care-Seeker.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd careseeker
+   cd Project-Care-Seeker
    ```
 3. Install dependencies:
    ```bash
