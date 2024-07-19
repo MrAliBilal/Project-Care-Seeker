@@ -59,7 +59,7 @@ A services-oriented website that offers a community platform to find support wor
    - Care seekers can view, edit, or delete their job postings
    - Support workers can view the status of their applications and accepted jobs
 ## Demo
-![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/CareSeeker%20Demo.gif)
+![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed.gif)
 
 ## Getting Started
 
