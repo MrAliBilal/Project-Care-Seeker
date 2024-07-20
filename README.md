@@ -58,8 +58,43 @@ A services-oriented website that offers a community platform to find support wor
 8. **Job Management**:
    - Care seekers can view, edit, or delete their job postings
    - Support workers can view the status of their applications and accepted jobs
+   
 ## Demo
 ![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed.gif)
+
+## Design Document PDF files of CareSeeker
+
+[Download Design Document PDF ](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Desgin%20Documents/Final%20Deliverable%20-%20Care%20Seeker/Final%20Year%20Project%20-%20Care%20Seeker%20-.pdf)
+
+### Table of Contents of Design Document PDF
+
+- Gathering & Analyzing Info
+  - Introduction
+  - Purpose
+  - Project Scope
+  - Definitions, Acronyms, and Abbreviations
+  - Project Requirements
+    - Functional Requirements
+    - Non-Functional Requirements
+  - Use Cases and Usage Scenarios
+    - Use Case Diagrams
+    - Usage Scenarios
+  - Development Methodology
+    - Chosen Methodology
+    - Reasons for Chosen Methodology
+    - Work Plan (Gantt Chart)
+    - Project Schedule (Submission Calendar)
+- Designing the Project
+  - Introduction
+  - Purpose
+  - Scope
+  - Definitions, Acronyms, and Abbreviations
+  - Dynamic Model: Sequence Diagrams
+  - Object Model/Logical Model: Class Diagram
+  - Database Model (Database Diagram)
+  - Graphical User Interfaces
+- Development
+  - Development Plan (Architecture Diagram)
 
 ## Getting Started
 
