@@ -112,7 +112,7 @@ To get started with the Care Seeker project, follow these steps:
    ```bash
    composer install
    ```
-4. Set up the PostgreSQL database and update the database configuration in the `.env` file.
+4. Set up the MySQL database and update the database configuration in the `.env` file.
 5. Run the migrations:
    ```bash
    php artisan migrate
