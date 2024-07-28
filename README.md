@@ -60,7 +60,7 @@ A services-oriented website that offers a community platform to find support wor
    - Support workers can view the status of their applications and accepted jobs
    
 ## Demo
-![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed.gif)
+![](https://github.com/MrAliBilal/Project-Care-Seeker/blob/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed%20compress.gif)
 
 ## Design Document PDF files of CareSeeker
 
