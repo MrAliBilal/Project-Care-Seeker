@@ -1,6 +1,6 @@
 # Final Year Project CareSeeker
 ## Introduction
-![](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Project%20Screenshot/Home%20Page%20-%20Guest.jpeg)
+![](https://github.com/MrAliBilal/Project-Care-Seeker/blob/main/Project%20Screenshot/Home%20Page%20-%20Guest.jpeg)
 
 A services-oriented website that offers a community platform to find support workers for elders, sick people, baby care, cooking, personal care, animal care, gym instruction, and domestic assistance. Care seekers can post jobs or search through an online community of support workers. Support workers will register on this website so care seekers can find them according to their desired needs. Support workers will charge hourly. Once a care seeker posts a job, support workers can respond through a messaging service. After finalizing the terms, the support worker will accept the job.
 
@@ -64,7 +64,7 @@ A services-oriented website that offers a community platform to find support wor
 
 ## Design Document PDF files of CareSeeker
 
-[Download Design Document PDF ](https://github.com/AliBilal-1/Project-Care-Seeker/blob/main/Desgin%20Documents/Final%20Deliverable%20-%20Care%20Seeker/Final%20Year%20Project%20-%20Care%20Seeker%20-.pdf)
+[Download Design Document PDF ](https://github.com/MrAliBilal/Project-Care-Seeker/blob/main/Desgin%20Documents/Final%20Deliverable%20-%20Care%20Seeker/Final%20Year%20Project%20-%20Care%20Seeker%20-.pdf)
 
 ### Table of Contents of Design Document PDF
 
