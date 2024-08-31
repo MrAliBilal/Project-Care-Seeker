@@ -1,7 +1,6 @@
-# Final Year Project CareSeeker
+# Final Year Project: CareSeeker
+![Project CareSeeker: Mockup](https://raw.githubusercontent.com/MrAliBilal/Project-Care-Seeker/main/Project%20Screenshot/Project-CareSeeker-Mockup.png "Project CareSeeker: Mockup")
 ## Introduction
-![](https://github.com/MrAliBilal/Project-Care-Seeker/blob/main/Project%20Screenshot/Home%20Page%20-%20Guest.jpeg)
-
 A services-oriented website that offers a community platform to find support workers for elders, sick people, baby care, cooking, personal care, animal care, gym instruction, and domestic assistance. Care seekers can post jobs or search through an online community of support workers. Support workers will register on this website so care seekers can find them according to their desired needs. Support workers will charge hourly. Once a care seeker posts a job, support workers can respond through a messaging service. After finalizing the terms, the support worker will accept the job.
 
 ## Tools and Technology
@@ -60,13 +59,15 @@ A services-oriented website that offers a community platform to find support wor
    - Support workers can view the status of their applications and accepted jobs
    
 ## Demo
-![](https://github.com/MrAliBilal/Project-Care-Seeker/blob/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed%20compress.gif)
+![ Project CareSeeker Demo](https://raw.githubusercontent.com/MrAliBilal/Project-Care-Seeker/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed%20compress.gif " Project CareSeeker Demo ")
 
 ## Design Document PDF files of CareSeeker
 
-[Download Design Document PDF ](https://github.com/MrAliBilal/Project-Care-Seeker/blob/main/Desgin%20Documents/Final%20Deliverable%20-%20Care%20Seeker/Final%20Year%20Project%20-%20Care%20Seeker%20-.pdf)
+[ ⬇️ **Download Design Document PDF** ](https://raw.githubusercontent.com/MrAliBilal/Project-Care-Seeker/main/Desgin%20Documents/Final%20Deliverable%20-%20Care%20Seeker/Final%20Year%20Project%20-%20Care%20Seeker%20-.pdf
+ " 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 ⬇️ : CareSeeker Design Document 📄 ")
 
-### Table of Contents of Design Document PDF
+<details>
+<summary > <h3 title=" 📜 𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙚𝙭𝙥𝙖𝙣𝙙 𝙤𝙧 𝙘𝙤𝙡𝙡𝙖𝙥𝙨𝙚 " > Table of Contents of Design Document PDF </h3> </summary>
 
 - Gathering & Analyzing Info
   - Introduction
@@ -95,6 +96,7 @@ A services-oriented website that offers a community platform to find support wor
   - Graphical User Interfaces
 - Development
   - Development Plan (Architecture Diagram)
+</details>
 
 ## Getting Started
 
