@@ -11,55 +11,63 @@ A services-oriented website that offers a community platform to find support wor
 
 ## Features
 
-### User Registration and Profiles
+<details>
+   <summary title=" 📜 𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙚𝙭𝙥𝙖𝙣𝙙 𝙤𝙧 𝙘𝙤𝙡𝙡𝙖𝙥𝙨𝙚 " > <h3> User Registration and Profiles </h3> </summary>
 
-1. **Support Worker Registration**:
-   - Detailed bio data submission
-   - Profile picture upload
-   - Hourly rate input
-   - Experience details
-   - Submission of two references
+   1. **Support Worker Registration:**
+      - Detailed bio data submission
+      - Profile picture upload
+      - Hourly rate input
+      - Experience details
+      - Submission of two references
 
-2. **Care Seeker Registration**:
-   - Basic information submission
-   - Profile management
+   2. **Care Seeker Registration:**
+      - Basic iformation submission
+      - Profile management
+</details>
+<details>
+   <summary title=" 📜 𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙚𝙭𝙥𝙖𝙣𝙙 𝙤𝙧 𝙘𝙤𝙡𝙡𝙖𝙥𝙨𝙚 " > <h3> Job Posting and Search </h3> </summary>
 
-### Job Posting and Search
+   3. **Job Posting by Care Seekers**:
+      - Service requirement description
+      - Detailed service information
+      - Service address
+      - Estimated hourly budget
+      - Service time
 
-3. **Job Posting by Care Seekers**:
-   - Service requirement description
-   - Detailed service information
-   - Service address
-   - Estimated hourly budget
-   - Service time
+   4. **Job Search for Support Workers**:
+      - Search by service category
+      - Filter jobs by location, hourly rate, and other criteria
+</details>
+<details>
+   <summary title=" 📜 𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙚𝙭𝙥𝙖𝙣𝙙 𝙤𝙧 𝙘𝙤𝙡𝙡𝙖𝙥𝙨𝙚 " > <h3> Communication and Hiring </h3> </summary>
 
-4. **Job Search for Support Workers**:
-   - Search by service category
-   - Filter jobs by location, hourly rate, and other criteria
+   5. **Messaging System**:
+      - Direct messaging between care seekers and support workers
+      - Notification system for new messages and job updates
 
-### Communication and Hiring
+   6. **Job Application and Acceptance**:
+      - Support workers can apply for jobs
+      - Care seekers can review applications and finalize terms
+      - Job acceptance by support workers
+</details>
+<details>
+   <summary title=" 📜 𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙚𝙭𝙥𝙖𝙣𝙙 𝙤𝙧 𝙘𝙤𝙡𝙡𝙖𝙥𝙨𝙚 " > <h3> Profile and Job Management </h3> </summary>
 
-5. **Messaging System**:
-   - Direct messaging between care seekers and support workers
-   - Notification system for new messages and job updates
+   7. **Profile Management**:
+      - Support workers can update their profiles, including experience, hourly rate, and references
+      - Care seekers can update their profiles and manage their posted jobs
 
-6. **Job Application and Acceptance**:
-   - Support workers can apply for jobs
-   - Care seekers can review applications and finalize terms
-   - Job acceptance by support workers
+   8. **Job Management**:
+      - Care seekers can view, edit, or delete their job postings
+      - Support workers can view the status of their applications and accepted jobs
+</details>
 
-### Profile and Job Management
+<details>
+   <summary > <h1 title=" 📜 𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙚𝙭𝙥𝙖𝙣𝙙 𝙤𝙧 𝙘𝙤𝙡𝙡𝙖𝙥𝙨𝙚 " > Project CareSeeker: Demo 🎥 </h1> </summary>
 
-7. **Profile Management**:
-   - Support workers can update their profiles, including experience, hourly rate, and references
-   - Care seekers can update their profiles and manage their posted jobs
-
-8. **Job Management**:
-   - Care seekers can view, edit, or delete their job postings
-   - Support workers can view the status of their applications and accepted jobs
-   
-## Demo
-![ Project CareSeeker Demo](https://raw.githubusercontent.com/MrAliBilal/Project-Care-Seeker/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed%20compress.gif " Project CareSeeker Demo ")
+   ![ Project CareSeeker Demo](https://raw.githubusercontent.com/MrAliBilal/Project-Care-Seeker/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed%20compress.gif " Project CareSeeker Demo ")
+</details>
 
 ## Design Document PDF files of CareSeeker
 
@@ -104,7 +112,7 @@ To get started with the Care Seeker project, follow these steps:
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/AliBilal-1/Project-Care-Seeker.git
+   git clone https://github.com/MrAliBilal/Project-Care-Seeker.git
    ```
 2. Navigate to the project directory:
    ```bash
