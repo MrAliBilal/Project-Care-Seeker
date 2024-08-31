@@ -4,10 +4,11 @@
 A services-oriented website that offers a community platform to find support workers for elders, sick people, baby care, cooking, personal care, animal care, gym instruction, and domestic assistance. Care seekers can post jobs or search through an online community of support workers. Support workers will register on this website so care seekers can find them according to their desired needs. Support workers will charge hourly. Once a care seeker posts a job, support workers can respond through a messaging service. After finalizing the terms, the support worker will accept the job.
 
 ## Tools and Technology
-- Fullstack Framework: Laravel 
-- CSS Framework: Tailwind CSS
-- Database: MySQL
-- Packages: Chatify, alpine.
+- **Language**: HTML, CSS, JavaScript, PHP
+- **Fullstack Framework**: Laravel, blade 
+- **CSS Framework**: Tailwind CSS
+- **Database**: MySQL
+- **Package**s: Chatify, Alpine, Awesome Font
 
 ## Features
 
