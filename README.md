@@ -64,8 +64,7 @@ A services-oriented website that offers a community platform to find support wor
       - Support workers can view the status of their applications and accepted jobs
 </details>
 
-<details>
-   <summary > <h1 title=" 📜 𝘾𝙡𝙞𝙘𝙠 𝙩𝙤 𝙚𝙭𝙥𝙖𝙣𝙙 𝙤𝙧 𝙘𝙤𝙡𝙡𝙖𝙥𝙨𝙚 " > Project CareSeeker: Demo 🎥 </h1> </summary>
+   # Project CareSeeker: Demo 🎥 
 
    ![ Project CareSeeker Demo](https://raw.githubusercontent.com/MrAliBilal/Project-Care-Seeker/main/Project%20Screenshot/CareSeeker%20Demo%20normal%20speed%20compress.gif " Project CareSeeker Demo ")
 </details>
